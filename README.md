@@ -21,10 +21,8 @@ I am a Frontend Software Engineer and a cloud tech lover.
 <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;
 
 ## How to get in contact
-<p align="left'>
-  <a target="_blank"href="https://www.linkedin.com/in/josealmarazgz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://medium.com/@jalmarazgon"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
+  <a target="_blank" href="https://www.linkedin.com/in/josealmarazgz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://medium.com/@jalmarazgon"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 
 ---
                                                                                                          
